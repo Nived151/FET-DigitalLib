@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      sxc210186
 HostName                       engnx02a.utdallas.edu
-ProcessIdentifier              23537
-ProcessCreationTime_UTC        1665449421
-ProcessCreationTime_Readable   Mon Oct 10 19:50:21 2022 CDT
+ProcessIdentifier              8028
+ProcessCreationTime_UTC        1666545199
+ProcessCreationTime_Readable   Sun Oct 23 12:13:19 2022 CDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/010/s/sx/sxc210186/cad/gf65/Nived_lib/INV_test_len/schematic/sch.oa.cdslck
-TimeEditLocked                 Mon Oct 10 19:50:54 2022 CDT
+FilePathUsedToEditLock         /home/010/s/sx/sxc210186/cad/gf65/Nived_lib/AOAI211/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Oct 23 12:13:33 2022 CDT
