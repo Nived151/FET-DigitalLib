@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      jsd210007
+HostName                       engnx06a.utdallas.edu
+ProcessIdentifier              31170
+ProcessCreationTime_UTC        1666571771
+ProcessCreationTime_Readable   Sun Oct 23 19:36:11 2022 CDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/013/j/js/jsd210007/cad/gf65/nand2/nand2_cell/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Oct 23 21:01:04 2022 CDT
