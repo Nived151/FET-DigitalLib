@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sxc210186
+HostName                       engnx02a.utdallas.edu
+ProcessIdentifier              8028
+ProcessCreationTime_UTC        1666545199
+ProcessCreationTime_Readable   Sun Oct 23 12:13:19 2022 CDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/010/s/sx/sxc210186/cad/gf65/Nived_lib/INV/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Oct 26 04:34:27 2022 CDT
